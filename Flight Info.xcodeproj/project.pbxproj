@@ -112,6 +112,8 @@
 		9C485D961A1CCBE1004A6132 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Razeware LLC";
 				TargetAttributes = {
